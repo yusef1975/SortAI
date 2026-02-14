@@ -1,0 +1,8 @@
+customtkinter
+watchdog
+pystray
+Pillow
+litellm
+plyer
+win10toast
+pywin32
