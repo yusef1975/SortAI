@@ -22,7 +22,7 @@ SortAI Pro is a high-performance desktop utility that uses Large Language Models
 
 ### 📥 Standalone Executable (Recommended)
 1. Go to the [Releases](https://github.com/yusef1975/SortAI/releases) page.
-2. Download `SortAI.exe`.
+2. Download `SortAI_Pro.exe`.
 3. Run the application—no installation or Python required!
 
 ### 🛠️ Developer Setup (Run from Source)
